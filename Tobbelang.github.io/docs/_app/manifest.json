@@ -1,0 +1,85 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-cf6e38b0.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-da052159.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      "src/routes/__error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/aktivitet.svelte",
+      "src/routes/App.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-46d8f325.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-da052159.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-99956479.css"
+    ]
+  },
+  "src/routes/__error.svelte": {
+    "file": "pages/__error.svelte-b496232a.js",
+    "src": "src/routes/__error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-da052159.js"
+    ],
+    "css": [
+      "assets/pages/__error.svelte-1d3f32eb.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-7e05797a.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-da052159.js",
+      "_clock-62f9a3ac.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-dfd399d6.css"
+    ]
+  },
+  "src/routes/aktivitet.svelte": {
+    "file": "pages/aktivitet.svelte-69b28451.js",
+    "src": "src/routes/aktivitet.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-da052159.js"
+    ],
+    "css": [
+      "assets/pages/aktivitet.svelte-b4b749a9.css"
+    ]
+  },
+  "src/routes/App.svelte": {
+    "file": "pages/App.svelte-e8fcee10.js",
+    "src": "src/routes/App.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-da052159.js",
+      "_clock-62f9a3ac.js"
+    ],
+    "css": [
+      "assets/pages/App.svelte-d0719ec8.css"
+    ]
+  },
+  "_vendor-da052159.js": {
+    "file": "chunks/vendor-da052159.js"
+  },
+  "_clock-62f9a3ac.js": {
+    "file": "chunks/clock-62f9a3ac.js"
+  }
+}
